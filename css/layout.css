@@ -1,0 +1,14 @@
+﻿/*容器垂直对齐*/      
+ .verticalcenter{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+ /*内容垂直居中*/
+ .container {
+    min-height: 6.5em;
+    display: table-cell;
+    vertical-align: middle;
+}
