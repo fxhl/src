@@ -1,0 +1,10 @@
+﻿/*博文标题*/
+.cnblogs_h1 {
+    background: lightblue;
+    font-size: 24px;
+    height: 35px;
+    color: white;
+    border-radius: 12px; /*圆角*/
+    padding: 0px 15px;
+    margin-top: 0px;
+}
